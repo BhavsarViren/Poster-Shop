@@ -10,15 +10,15 @@ and my partner Vincent DeRoma - Deromav1@montclair.edu
 
 MAIN FEATURES:
 
-Products: A product gallery displayed for all customers of the website. Customers are able to view and purchase products that are within the inventory 
+PRODUCTS: A product gallery displayed for all customers of the website. Customers are able to view and purchase products that are within the inventory 
 
-Admin: An admin account with the capabilities to add, edit, search, or delete employee accounts.
+ADMIN: An admin account with the capabilities to add, edit, search, or delete employee accounts.
 
-Product Manager: An Employee account with the responsibility of determining the name and price of our products.
+PRODUCT MANAGER: An Employee account with the responsibility of determining the name and price of our products.
 
-Inventory Manager: An Employee account with the responsibility of adjusting the quantity of each product we have in stock.
+INVENTORY MANAGER: An Employee account with the responsibility of adjusting the quantity of each product we have in stock.
 
-Shipping Manager: An Employee account with the responsibility of monitoring all orders placed by customers.
+SHIPPING MANAGER: An Employee account with the responsibility of monitoring all orders placed by customers.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
