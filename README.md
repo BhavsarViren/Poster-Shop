@@ -20,6 +20,8 @@ INVENTORY MANAGER: An Employee account with the responsibility of adjusting the 
 
 SHIPPING MANAGER: An Employee account with the responsibility of monitoring all orders placed by customers.
 
+DATABASE: MySQL database used to store data for every feature of this project.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TECHNOLOGY IMPLEMENTED:
